@@ -11,7 +11,7 @@
 ## 📝 About Me
 <p>
   I’m a Computer Science student at Uninassau (Maceió) with a passion for 
-  programming, AI development and information security.  
+  programming (backend), AI development and information security.  
   Outside the terminal, you’ll find me reading about neuroscience 🧠, 
   exploring game design 🎮 or organizing my digital workspace 💻.
 </p>
