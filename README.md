@@ -1,7 +1,13 @@
+
+<!-- Centro do SVG animado -->
 <p align="center">
-  <!-- Typing SVG animado centralizado -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=7947F7&vCenter=true&width=435&lines=Hello%2C+everyone. +I%E2%80%99m+Sadousan." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=7947F7&width=500&lines=Hello%2C+everyone.+I%E2%80%99m+Sadousan." 
+      alt="Typing SVG" />
+  </a>
 </p>
+
 
 <p align="center">
   <img alt="Pronouns" src="https://img.shields.io/badge/Pronouns-he%2Fhim-blue" />
