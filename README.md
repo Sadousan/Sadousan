@@ -68,8 +68,8 @@
 | Projeto                 | Descrição                                           | Link                              |
 |-------------------------|------------------------------------------------------|-----------------------------------|
 | TaskLock                | Gerenciador Android que bloqueia apps distrativos    | [GitHub](https://github.com/Sadousan/TaskLock) |
-| High-Perf Web App       | Node.js + Prisma + PostgreSQL                       | [GitHub](...) |
-| AI Molecular Predictor  | Predição de desestruturação molecular (em estudo)     | [GitHub](...) |
+| High-Perf Web App       | Node.js + Prisma + PostgreSQL                       | ... |
+| AI Molecular Predictor  | Predição de desestruturação molecular (em estudo)     | ... |
 
 ---
 
