@@ -90,5 +90,5 @@
   <img alt="Samuel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sadousan&show_icons=true&theme=dracula&count_private=true" />
 </p>
 <p align="center">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sadousan&layout=compact&theme=default" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sadousan&layout=compact&theme=dracula" />
 </p>
