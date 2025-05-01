@@ -1,7 +1,6 @@
 <!-- Typing SVG animado -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7947F7&width=500&lines=Hello,+everyone.+I%E2%80%99m+Sadousan)](https://git.io/typing-svg)
-<p align="center">
-  <img alt="Pronouns" src="https://img.shields.io/badge/Pronouns-he%2Fhim-blue" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=7947F7&center=true&vCenter=true&width=435&lines=Hello%2C+everyone.+I%E2%80%99m+Sadousan.)](https://git.io/typing-svg) 
+<img alt="Pronouns" src="https://img.shields.io/badge/Pronouns-he%2Fhim-blue" />
   <img alt="Location" src="https://img.shields.io/badge/Location-Brazil-brightgreen" />
   <img alt="Student" src="https://img.shields.io/badge/🎓-Computer%20Science%20Student-purple" />
 </p>
@@ -56,7 +55,6 @@
 <summary><strong>🛡️ Security & Hacking</strong></summary>
 <p>
   <img alt="Kali Linux" src="https://img.shields.io/badge/Kali-Linux-blue?logo=kali-linux&logoColor=white" height="24"/>
-  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-222C3E?logo=wireshark&logoColor=white" height="24"/>
   <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-6DB33F?logo=metasploit&logoColor=white" height="24"/>
 </p>
 </details>
