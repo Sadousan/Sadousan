@@ -1,8 +1,6 @@
 <!-- Typing SVG animado -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7947F7&width=500&lines=Hello,+everyone.+I%E2%80%99m+Sadousan)](https://git.io/typing-svg)
 
-<!-- Cabeçalho -->
-<h1 align="center">👋 Hi there, I'm <strong>Samuel Douglas dos Santos</strong> (<em>Sadousan</em>)</h1>
 <p align="center">
   <img alt="Pronouns" src="https://img.shields.io/badge/Pronouns-he%2Fhim-blue" />
   <img alt="Location" src="https://img.shields.io/badge/Location-Brazil-brightgreen" />
@@ -62,8 +60,8 @@
 | Projeto                 | Descrição                                           | Link                              |
 |-------------------------|------------------------------------------------------|-----------------------------------|
 | TaskLock                | Gerenciador Android que bloqueia apps distrativos    | [GitHub](https://github.com/Sadousan/TaskLock) |
-| High-Perf Web App       | Node.js + Prisma + PostgreSQL                       | [GitHub](https://github.com/Sadousan/web-highperf) |
-| AI Molecular Predictor  | Predição de desestruturação molecular (em estudo)     | [GitHub](https://github.com/Sadousan/ai-mol-predict) |
+| High-Perf Web App       | Node.js + Prisma + PostgreSQL                       | [GitHub](...) |
+| AI Molecular Predictor  | Predição de desestruturação molecular (em estudo)     | [GitHub](...) |
 
 ---
 
