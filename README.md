@@ -1,6 +1,9 @@
-<!-- Typing SVG animado -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=7947F7&vCenter=true&width=435&lines=Hello%2C+everyone.+I%E2%80%99m+Sadousan.)](https://git.io/typing-svg)
-<p>
+<p align="center">
+  <!-- Typing SVG animado centralizado -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=7947F7&vCenter=true&width=500&lines=Hello%2C+everyone.+I%E2%80%99m+Sadousan.)](https://git.io/typing-svg)
+</p>
+
+<p align="center">
   <img alt="Pronouns" src="https://img.shields.io/badge/Pronouns-he%2Fhim-blue" />
   <img alt="Location" src="https://img.shields.io/badge/Location-Brazil-brightgreen" />
   <img alt="Student" src="https://img.shields.io/badge/🎓-Computer%20Science%20Student-purple" />
@@ -35,11 +38,23 @@
 <details>
 <summary><strong>Tools & Platforms</strong></summary>
 <p>
+  <!-- Version control & containers -->
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="24"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="24"/>
+
+  <!-- OS & Virtualization -->
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="24"/>
   <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" height="24"/>
-  <img alt="VMware" src="https://img.shields.io/badge/Virtualization-6DB33F?logo=vmware&logoColor=white" height="24"/>
+  <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white" height="24"/>
+
+  <!-- IDEs -->
+  <img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" height="24"/>
+  <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-0096D8?logo=apache-netbeans&logoColor=white" height="24"/>
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white" height="24"/>
+
+  <!-- Design -->
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="24"/>
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-0FACF9?logo=canva&logoColor=white" height="24"/>
 </p>
 </details>
 
@@ -50,7 +65,6 @@
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" height="24"/>
 </p>
 </details>
-
 
 <details>
 <summary><strong>🛡️ Security & Hacking</strong></summary>
@@ -67,15 +81,14 @@
 | Projeto                 | Descrição                                           | Link                              |
 |-------------------------|------------------------------------------------------|-----------------------------------|
 | TaskLock                | Gerenciador Android que bloqueia apps distrativos    | [GitHub](https://github.com/Sadousan/TaskLock) |
-| High-Perf Web App       | Node.js + Prisma + PostgreSQL                       | ... |
-| AI Molecular Predictor  | Predição de desestruturação molecular (em estudo)     | ... |
+| High-Perf Web App       | Node.js + Prisma + PostgreSQL                       | …                                 |
+| AI Molecular Predictor  | Predição de desestruturação molecular (em estudo)     | …                                 |
 
 ---
 
 ## 📫 Connect with me
 
 <p align="center">
-  &nbsp;&nbsp;
   <a href="mailto:samueldouglas074@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-samueldouglas074@gmail.com-D14836?logo=gmail&logoColor=white" height="24"/>
   </a>
