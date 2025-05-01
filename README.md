@@ -1,5 +1,7 @@
 <!-- Typing SVG animado -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=7947F7&vCenter=true&width=435&lines=Hello%2C+everyone.+I%E2%80%99m+Sadousan.)](https://git.io/typing-svg)<img alt="Pronouns" src="https://img.shields.io/badge/Pronouns-he%2Fhim-blue" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=7947F7&vCenter=true&width=435&lines=Hello%2C+everyone.+I%E2%80%99m+Sadousan.)](https://git.io/typing-svg)
+  
+  <img alt="Pronouns" src="https://img.shields.io/badge/Pronouns-he%2Fhim-blue" />
   <img alt="Location" src="https://img.shields.io/badge/Location-Brazil-brightgreen" />
   <img alt="Student" src="https://img.shields.io/badge/🎓-Computer%20Science%20Student-purple" />
 </p>
