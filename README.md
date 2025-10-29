@@ -67,7 +67,7 @@
 <details>
 <summary><strong>📂 Bancos de Dados</strong></summary>
 <p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="24"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white" height="24"/>
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" height="24"/>
 </p>
 </details>
