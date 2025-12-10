@@ -87,7 +87,7 @@
 | Projeto                 | Descrição                                           | Link                              |
 |-------------------------|------------------------------------------------------|-----------------------------------|
 | TaskLock                | Gerenciador Android que bloqueia apps distrativos    | [GitHub](https://github.com/Sadousan/TaskLock) |
-| Kodan                   | Node.js + Prisma + MySQL                             | [GitHub](https://github.com/lfernandonassau/NASSAU-AV02-backend-framework-equipe05) |
+| Kodan                   | Plataforma de gestão de Tasks com o a ferramenta Kanban | [GitHub](https://github.com/lfernandonassau/NASSAU-AV02-backend-framework-equipe05) |
 | NEV                     | Simulador de comportamento de bactérias              | ...                             |
 
 ---
