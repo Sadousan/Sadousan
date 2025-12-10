@@ -87,8 +87,8 @@
 | Projeto                 | Descrição                                           | Link                              |
 |-------------------------|------------------------------------------------------|-----------------------------------|
 | TaskLock                | Gerenciador Android que bloqueia apps distrativos    | [GitHub](https://github.com/Sadousan/TaskLock) |
-| High-Perf Web App       | Node.js + Prisma + PostgreSQL                       | …                                 |
-| AI Molecular Predictor  | Predição de desestruturação molecular (em estudo)     | …                                 |
+| Kodan                   | Node.js + Prisma + MySQL                             | [GitHub](https://github.com/lfernandonassau/NASSAU-AV02-backend-framework-equipe05) |
+| NEV                     | Simulador de comportamento de bactérias              | ...                             |
 
 ---
 
